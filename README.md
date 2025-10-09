@@ -1,0 +1,1 @@
+# cabinet-manager-autoupdater
